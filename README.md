@@ -10,7 +10,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%2300CCBC.svg?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2300CCBC)
 
 ![HTML](https://camo.githubusercontent.com/984b8beb59902c3e75bd801af16679a70e3ce7a1adca772b904448901586ca4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d6f72616e6765) ![CSS](https://camo.githubusercontent.com/91d53deee37d76b9a64c8b12ee9affaf8232cfdb09dac0863aca44e579f2e72b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d626c7565)
 
