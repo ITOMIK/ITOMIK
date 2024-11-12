@@ -18,5 +18,8 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 ![ITOMIK's Stats](https://github-readme-stats.vercel.app/api?username=ITOMIK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ITOMIK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITOMIK&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
